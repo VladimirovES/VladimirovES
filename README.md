@@ -18,7 +18,7 @@
   </div> 
           <div>
                <p align='center'>
-                 <img src="" width="450" />
+                 <img src="https://github.com/VladimirovES/good_stuff/blob/main/%D0%BA%D1%83%D0%BA%D1%83%D0%BA%D1%83%D0%BB%D0%B0%D0%B2%D0%BD234456.gif?raw=true" width="600" />
                <p/>
                <div/>
 </div>
