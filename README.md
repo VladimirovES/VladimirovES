@@ -27,7 +27,7 @@
   <a href="https://t.me/vladimirov_ES">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="not now">
+  <a href="www.linkedin.com/in/Evgeniy-Vladimirov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
         <p/>
