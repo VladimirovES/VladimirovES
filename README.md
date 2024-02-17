@@ -53,11 +53,6 @@
 </table>
 </div>
 
-<div align="center">
-  <h2>Contacts</h2>
-</div>
-
-
 
 <div align="center">
   <a href="https://t.me/vladimirov_ES">
