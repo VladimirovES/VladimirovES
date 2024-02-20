@@ -1,5 +1,6 @@
-
-
+<div align="center">
+  <img src="https://github.com/VladimirovES/staff-for-pic/blob/main/IMG_0117-ezgif_com-optimize.gif?raw=true" alt="Locust" width="550" height="410"/>
+</div>
 
 <div align="center">
 <table>
