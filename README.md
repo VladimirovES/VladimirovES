@@ -1,6 +1,3 @@
-<div align="center">
-  <h2>Skills & Tools</h2>
-</div>
 
 
 
@@ -52,6 +49,10 @@
 </td>
 </tr>
 </table>
+</div>
+
+<div align=" center">
+   <img src="https://psv4.userapi.com/c235031/u125445536/docs/d32/53680d81a6bb/mmm-ezgif_com-optimize.gif?extra=iYgKMKbA3m-pjZDSiqxvbXI2lwiqHpy04ZOzjCGvQS4YLuaptkvwNkbqxOUCcDOIL1juqs0xsE-UrcpWAjG4FtcEW9woLXXLSATNGV-7NNElVzZXwddcVrBX22MH8DNt0hDT-qROAdihJzHy08yz7Zg" alt="ebalo" width="300" height="300" style="background-color: white; border-radius: 50%;"/>
 </div>
 
 
